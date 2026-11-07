@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "phone-check-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/phone-check-assets-phone-check-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
